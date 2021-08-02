@@ -39,7 +39,7 @@ N.B.: You only need to execute this script once.
 
 ### Usage
 ```
-python memory-stress-test -m [% of the reserved memory to be consumed ]
+python ./memory-test.py -m [% of the reserved memory to be consumed ]
 ```
 
 ### Useful references
